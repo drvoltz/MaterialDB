@@ -1,0 +1,4 @@
+* INCLUDE, input=S23_Node_Elem.inp
+* INCLUDE, input=fiberMat.inp
+* INCLUDE, input=matrixMat.inp
+* INCLUDE, input=S23_BC.inp
